@@ -1,6 +1,8 @@
 # volk-boilerplate
 Prototype Indent-based Scheme implementation written in Racket with Interslavic Keywords
 
+Named after Vuk Karadžić
+
 Syntax based on Cirru: http://text.cirru.org/
 
 Example (cheking if a given integer is prime): 
